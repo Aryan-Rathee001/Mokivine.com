@@ -3,6 +3,5 @@
 <body>
 <h1>Mokivine is there for you</h1>
 </body>
-<body>background color :" blue";</body>
 </head>
 </html>
